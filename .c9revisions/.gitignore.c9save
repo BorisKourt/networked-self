@@ -1,1 +1,3 @@
 {"ts":1366174511202,"silentsave":true,"restoring":false,"patch":[[{"diffs":[[1,"# Keys #\r\n########\r\n*.cred.php\r\n\r\n# Compiled source #\r\n###################\r\n*.com\r\n*.class\r\n*.dll\r\n*.exe\r\n*.o\r\n*.so\r\n\r\n# Packages #\r\n############\r\n*.7z\r\n*.dmg\r\n*.gz\r\n*.iso\r\n*.jar\r\n*.rar\r\n*.tar\r\n*.zip"]],"start1":0,"start2":0,"length1":0,"length2":199}]],"length":199}
+{"contributors":[],"silentsave":false,"ts":1366174953229,"patch":[[{"diffs":[[0,"r\r\n*.zip"],[1,"\r\n\r\n*.gitignore"]],"start1":191,"start2":191,"length1":8,"length2":23}]],"length":214,"saved":false}
+{"ts":1366175009661,"patch":[[{"diffs":[[0,"\r\n\r\n"],[-1,"*.gitignore"],[1,".c9revisions/"]],"start1":199,"start2":199,"length1":15,"length2":17}]],"length":216,"saved":false}
